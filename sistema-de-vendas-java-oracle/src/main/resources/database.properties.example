@@ -1,0 +1,6 @@
+# Copie este arquivo para "database.properties" (na mesma pasta)
+# e preencha com o seu usuário e a sua senha do Oracle.
+# O database.properties está no .gitignore e não vai para o GitHub.
+db.url=jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL
+db.user=SEU_RM
+db.password=SUA_SENHA
