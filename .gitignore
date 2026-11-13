@@ -1,0 +1,14 @@
+# Credenciais do banco: nunca subir para o GitHub
+src/main/resources/database.properties
+
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Sistema
+.DS_Store
+Thumbs.db
